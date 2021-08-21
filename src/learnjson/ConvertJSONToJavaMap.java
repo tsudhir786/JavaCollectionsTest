@@ -24,7 +24,7 @@ public class ConvertJSONToJavaMap {
 		Map.Entry<String, Object> entry = (Entry<String, Object>) result.entrySet();
 		entry.getKey();
 		entry.getValue();
-	
+// 	Test7 Sudhir detached
 	}
 
 }

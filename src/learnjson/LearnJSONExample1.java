@@ -12,34 +12,7 @@ public class LearnJSONExample1 {
 		obj.put("name", "sonoo");
 		obj.put("age", new Integer(27));
 		obj.put("salary", new Double(600000));
-		System.out.print(obj);
-
-//Test1 Sudhir
-
-// Test Onkeshwar
-
-// Test Vinay
-
-//Test2 Sudhir
-
-// Test sagar
-
-//Test3 Vinay
-
-//Test3 Sudhir
-
-		
-//Test4 Sudhir		
-
-// Test4 Onkeshwar		
-
-//Test5 Sudhir		
-
-// Test5 Vinay
-
-// Test6 Onkesh		
-		
-//Test6 Sudhir		
+		System.out.print(obj);	
 		
 	}
 

@@ -24,12 +24,7 @@ public class ConvertJSONToJavaMap {
 		Map.Entry<String, Object> entry = (Entry<String, Object>) result.entrySet();
 		entry.getKey();
 		entry.getValue();
-// Test Vinay
-// Test Sagar
-// Test3 Vinay		
-// Test4 Vinay	
-// Test5 Sagar	
-// Test6 Vinay		
+	
 	}
 
 }

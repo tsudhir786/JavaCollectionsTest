@@ -26,6 +26,7 @@ public class ConvertHashMapToJSON {
 		String json = new ObjectMapper().writeValueAsString(map);
 		System.out.println(json);
 //		Test Sudhir1
+// 		Test Vinay
 	}
 
 }

@@ -1,0 +1,18 @@
+{
+  "chargeType": "Time-Based",
+  "primaryGroupBy": "Date",
+  "secondaryGroupBy": "Select",
+  "columns": [
+    "Date",
+    "Employee",
+    "Memo",
+    "Billing Class",
+    "Quantity",
+    "Rate",
+    "Amount"
+  ],
+  "nestedMap": {
+    "Key1": "Value1",
+    "Key2": "Value2"
+  }
+}

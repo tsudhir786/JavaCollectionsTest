@@ -1,0 +1,15 @@
+{
+  "name": "Sudhir",
+  "moods": [
+    "Fresh",
+    "Happy",
+    "Fear"
+  ],
+  "id": "1",
+  "department": "Testing",
+  "Sports": {
+    "Cricket": "All Rounder",
+    "Chess": "Rapid",
+    "VolleyBall": "Center Player"
+  }
+}

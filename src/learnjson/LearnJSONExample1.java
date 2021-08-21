@@ -13,7 +13,7 @@ public class LearnJSONExample1 {
 		obj.put("age", new Integer(27));
 		obj.put("salary", new Double(600000));
 		System.out.print(obj);
-
+//Test1 Sudhir
 	}
 
 }

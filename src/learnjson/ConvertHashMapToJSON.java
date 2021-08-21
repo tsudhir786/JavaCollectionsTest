@@ -25,13 +25,7 @@ public class ConvertHashMapToJSON {
 
 		String json = new ObjectMapper().writeValueAsString(map);
 		System.out.println(json);
-//		Test Sudhir1
-// 		Test Vinay
-//		Test2 Sudhir
-//		Test3 Sudhir	
-//		Test4 Sudhir
-//		Test5 Sudhir	
-//		Test6 Sudhir
+
 	}
 
 }

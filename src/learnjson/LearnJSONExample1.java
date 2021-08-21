@@ -14,13 +14,7 @@ public class LearnJSONExample1 {
 		obj.put("salary", new Double(600000));
 		System.out.print(obj);
 
-//Tester Sudhir working on this
 
-//Tester Onkesh working on this
-		
-// Tester Vinay working on this
-
-//Tester Sagar is working on this
 	}
 
 }
